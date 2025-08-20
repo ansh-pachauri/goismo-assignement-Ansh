@@ -3,7 +3,7 @@ import { Home, Radio, ShoppingBag, Package, ShoppingCart, BarChart3, Coins, Smar
 export default function Sidebar() {
     return (
         <div>
-            <aside className="w-52 bg-purple-50  min-h-screen">
+            <aside className=" w-52 bg-purple-50 min-h-screen">
           <nav className="p-4">
             <div className="space-y-2">
               <div className="flex items-center gap-3 px-3 py-2 text-pink-600 bg-pink-50 rounded-lg">

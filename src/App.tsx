@@ -15,7 +15,7 @@ function App() {
       <div className="flex flex-1 min-h-screen">
         <Sidebar />
         <div className="w-full">
-          <div className="w-full max-w-[1200px] mr-auto pl-2 pr-4 py-4 flex flex-col gap-4">
+          <div className="w-full  mr-auto px-3 sm:px-4 py-4 flex flex-col gap-4">
             <MainContent />
             <Todaydata />
           </div>
