@@ -33,7 +33,7 @@ export function MainContent() {
         
       
         <div className="mb-6 lg:mb-0 lg:mr-8">
-          <h1 className="text-xl md:text-2xl font-semibold text-gray-800 mb-2">
+          <h1 className="text-xl md:text-2xl font-bold text-pink-500 mb-2">
             Well begun is half done
           </h1>
           <p className="text-gray-600 text-sm md:text-base">
